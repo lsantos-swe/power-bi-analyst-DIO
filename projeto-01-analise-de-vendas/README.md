@@ -40,12 +40,6 @@ A terceira página foi desenvolvida especificamente para o desafio e apresenta:
 
 ![Análise de Vendas, Lucro e Unidades Vendidas por País e Segmento](assets/pagina-03-vendas-lucro-unidades.gif)
 
-## Arquivo da apresentação
-
-O relatório também foi exportado para PowerPoint para facilitar a visualização e o compartilhamento das páginas desenvolvidas.
-
-[Visualizar apresentação do relatório](presentation/analise-de-vendas.pptx)
-
 ## Principais aprendizados
 
 Este projeto representou meu primeiro contato prático com o Power BI e foi desenvolvido a partir do zero, desde a familiarização com a interface até a construção e organização de um relatório completo.
