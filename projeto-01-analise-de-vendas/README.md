@@ -8,11 +8,13 @@
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido a partir da **amostra de dados disponibilizada pela DIO**, com o objetivo de praticar a criação e organização de relatórios no Power BI.
+Este projeto foi desenvolvido a partir da **Financial Sample** disponibilizada no repositório [power_bi_analyst — Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst), utilizado como referência no desafio da DIO.
 
 O relatório apresenta análises relacionadas a vendas, lucro, produtos, segmentos e distribuição geográfica, organizadas em três páginas.
 
 As duas primeiras páginas foram desenvolvidas com base nas atividades realizadas durante o curso. A terceira página foi construída como parte do desafio proposto, reunindo visualizações de vendas, unidades vendidas, lucro por país e lucro por segmento.
+
+O desenvolvimento permitiu praticar desde a criação e organização dos visuais até a aplicação de filtros, segmentações e diferentes formas de apresentação dos dados.
 
 ## Dashboard
 
@@ -20,13 +22,13 @@ As duas primeiras páginas foram desenvolvidas com base nas atividades realizada
 
 A primeira página apresenta análises relacionadas ao desempenho dos produtos e segmentos, incluindo vendas, preço médio e evolução temporal.
 
-![Análise de Vendas por Produto e Segmento](assets/vendas-produtos-segmentos.png)
+![Análise de Vendas por Produto e Segmento](assets/pagina-01-vendas-produtos-segmentos.gif)
 
 ### 2. Análise de Vendas e Lucro por País
 
 A segunda página concentra indicadores financeiros e análises geográficas, permitindo observar vendas, unidades vendidas e lucro por país.
 
-![Análise de Vendas e Lucro por País](assets/vendas-lucro-pais.png)
+![Análise de Vendas e Lucro por País](assets/pagina-02-vendas-lucro-pais.gif)
 
 ### 3. Análise de Vendas, Lucro e Unidades Vendidas por País e Segmento
 
@@ -36,21 +38,13 @@ A terceira página foi desenvolvida especificamente para o desafio e apresenta:
 - lucro por país;
 - distribuição do lucro por segmento.
 
-![Análise de Vendas, Lucro e Unidades Vendidas por País e Segmento](assets/distribuicao-vendas-lucro.png)
+![Análise de Vendas, Lucro e Unidades Vendidas por País e Segmento](assets/pagina-03-vendas-lucro-unidades.gif)
 
 ## Arquivo da apresentação
 
 O relatório também foi exportado para PowerPoint para facilitar a visualização e o compartilhamento das páginas desenvolvidas.
 
 [Visualizar apresentação do relatório](presentation/analise-de-vendas.pptx)
-
-## Fonte dos dados
-
-O projeto foi desenvolvido a partir da sample disponibilizada no material do desafio da DIO.
-
-Repositório de referência:
-
-[power_bi_analyst — Juliana Zanelatto](https://github.com/julianazanelatto/power_bi_analyst)
 
 ## Principais aprendizados
 
