@@ -8,14 +8,8 @@
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido a partir da **amostra de dados disponibilizada pela DIO**, com o objetivo de praticar a criação e organização de relatórios no Power BI.
-
-O relatório apresenta análises relacionadas a vendas, lucro, produtos, segmentos e distribuição geográfica, organizadas em três páginas.
-
-As duas primeiras páginas foram desenvolvidas com base nas atividades realizadas durante o curso. A terceira página foi construída como parte do desafio proposto, reunindo visualizações de vendas, unidades vendidas, lucro por país e lucro por segmento.
+Este projeto está desenvolvido a partir da **amostra de dados disponibilizada pela DIO**, com o objetivo de praticar a criação e organização de relatórios no Power BI.
 
 ## Autor
 
 **Larissa Santos**
-
-Projeto está sendo desenvolvido como parte dos estudos em análise de dados e Power BI.
