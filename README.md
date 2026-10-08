@@ -1,4 +1,4 @@
-# Projetos Power BI — DIO
+# Projetos Power BI Analyst — DIO
 
 ![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
 ![Power BI](https://img.shields.io/badge/ferramenta-Power%20BI-yellow)
